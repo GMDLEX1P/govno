@@ -1,1 +1,1 @@
-print('HUY')
+print('govno')
