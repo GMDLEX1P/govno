@@ -1,4 +1,4 @@
 print('govno')
 
 print('govno')
-huy
+print(1+1)
