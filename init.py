@@ -1,1 +1,3 @@
 print('govno')
+
+print('govno')
